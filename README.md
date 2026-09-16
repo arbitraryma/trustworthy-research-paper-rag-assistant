@@ -32,3 +32,14 @@ flowchart TD
     G -->|No| X[Confidence-aware refusal]
     L --> CITE[Page-level citations]
 
+
+## Examples
+
+### Grounded Answer
+
+![Grounded answer](assets/grounded_answer.png)
+
+### Confidence-Aware Refusal
+
+![Confidence-aware refusal](assets/confidence_refusal.png)
+
