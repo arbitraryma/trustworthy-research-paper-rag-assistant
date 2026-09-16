@@ -1,0 +1,26 @@
+[
+    {
+      "id": "q1",
+      "question": "What clustering method does the paper propose?",
+      "expected_source": "1-s2.0-S0888613X25001938-main.pdf",
+      "expected_pages": [3,4,5]
+    },
+    {
+      "id": "q2",
+      "question": "How are the fuzziness parameter and number of clusters selected?",
+      "expected_source": "1-s2.0-S0888613X25001938-main.pdf",
+      "expected_pages": [5]
+    },
+    {
+      "id": "q3",
+      "question": "Which competing method is used for comparison?",
+      "expected_source": "1-s2.0-S0888613X25001938-main.pdf",
+      "expected_pages": [8]
+    },
+    {
+      "id": "q4",
+      "question": "What advantage does the method have for high-dimensional multivariate time series?",
+      "expected_source": "1-s2.0-S0888613X25001938-main.pdf",
+      "expected_pages": [3,18]
+    }
+  ]

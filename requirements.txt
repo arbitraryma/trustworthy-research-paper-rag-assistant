@@ -1,0 +1,8 @@
+dashscope
+faiss-cpu
+langchain-community
+langchain-text-splitters
+openai
+pypdf
+python-dotenv
+streamlit
